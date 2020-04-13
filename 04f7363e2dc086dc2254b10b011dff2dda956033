@@ -1,0 +1,1 @@
+{"jobID":"2054ee87-8834-ecc9-9269-1d53be0ea951","spec":{"type":"policy","cause":{"Message":"","User":"maedag \u003cgaku.maeda@hpe.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.podinfo":"glob:3.2.0"},"remove":{}}}},"result":null}
