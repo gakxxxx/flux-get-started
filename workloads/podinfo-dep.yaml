@@ -11,6 +11,9 @@ metadata:
     fluxcd.io/tag.init: regex:^3.10.*
     fluxcd.io/tag.podinfod: glob:3.2.*
     fluxcd.io/tag.podinfo: glob:3.2.0
+    fluxcd.io/locked_user: maedag <gaku.maeda@hpe.com>
+    fluxcd.io/locked: 'true'
+    fluxcd.io/locked_msg: 3.2.2 does not work for us
 spec:
   strategy:
     rollingUpdate:
